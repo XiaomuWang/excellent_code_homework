@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8b7713b-88a5-4389-b6a8-2db7549b2d01" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hwx5rT8shK1Fc6GdyF1vz8Ufa5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
+    <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="sshConsole" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\开课吧\作业\名企作业\名企班+week6+马奇志" />
+      <recent name="C:\Users\Administrator\Desktop\开课吧\作业\名企作业\名企班+week5+马奇志" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.homework">
+    <configuration name="23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="名企班+week5+马奇志" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/23.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="homework" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="名企班+week5+马奇志" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/homework.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.homework" />
+        <item itemvalue="Python.23" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+    <option name="myConnectionId" value="" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8b7713b-88a5-4389-b6a8-2db7549b2d01" name="Default Changelist" comment="" />
+      <created>1600935775840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600935775840</updated>
+      <workItem from="1600935777092" duration="5994000" />
+      <workItem from="1601002254636" duration="7524000" />
+      <workItem from="1601034509935" duration="8113000" />
+      <workItem from="1601109602801" duration="9046000" />
+      <workItem from="1601280661557" duration="3332000" />
+      <workItem from="1602749104920" duration="39668000" />
+      <workItem from="1602840696262" duration="5013000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="398" y="103" key="#Deployment" timestamp="1602749323247">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="398" y="103" key="#Deployment/0.0.1536.824@0.0.1536.824" timestamp="1602749323247" />
+    <state x="628" y="203" key="FileChooserDialogImpl" timestamp="1601298807640">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="628" y="203" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1601298807640" />
+    <state width="1493" height="160" key="GridCell.Tab.0.bottom" timestamp="1601278471230">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="160" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601278471230" />
+    <state width="1493" height="160" key="GridCell.Tab.0.center" timestamp="1601278471230">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="160" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601278471230" />
+    <state width="1493" height="160" key="GridCell.Tab.0.left" timestamp="1601278471230">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="160" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601278471230" />
+    <state width="1493" height="160" key="GridCell.Tab.0.right" timestamp="1601278471230">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="160" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601278471230" />
+    <state x="146" y="64" key="SettingsEditor" timestamp="1602751269644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="146" y="64" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1602751269644" />
+    <state x="583" y="175" key="ftp.server.browser" timestamp="1602749905916">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="583" y="175" key="ftp.server.browser/0.0.1536.824@0.0.1536.824" timestamp="1602749905916" />
+    <state x="635" y="336" key="publish.login" timestamp="1602749215973">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="635" y="336" key="publish.login/0.0.1536.824@0.0.1536.824" timestamp="1602749215973" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/_week5_$23.coverage" NAME="23 Coverage Results" MODIFIED="1601027045321" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/_week5_$homework.coverage" NAME="homework Coverage Results" MODIFIED="1601172685906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
